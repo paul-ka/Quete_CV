@@ -1,0 +1,32 @@
+body{
+	background-color : rgb(104,187,285)
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+}
+#left-box{
+	float : left;
+	background-color : rgb(9,30,45);
+	color : white;
+	padding : 10px;
+	width : 220px;
+	margin-top: 10px;
+	height: 100%;
+}
+#left-box li{
+	font-size:0.8em;
+	font-family: sans-serif;
+}
+#right-box{
+	margin-left : 230px;
+	padding : 10px;
+}
+#experiences-box, #studies-box{
+	background-color : white ;
+	margin : 0 10px 10px 10px;
+	padding : 10px;
+}
+#studies-box{
+	background-color : white ;
+}
